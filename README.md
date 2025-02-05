@@ -1,3 +1,6 @@
+Image:
+https://dev.azure.com/sodrexter/ContosoAir/_apis/build/status%2Fsodrexter.ContosoAir?branchName=master&jobName=Job
+
 Pipeline
 [![Build Status](https://dev.azure.com/sodrexter/ContosoAir/_apis/build/status%2Fsodrexter.ContosoAir?branchName=master)](https://dev.azure.com/sodrexter/ContosoAir/_build/latest?definitionId=7&branchName=master)
 
